@@ -67,7 +67,7 @@ public class MainActivity extends AppCompatActivity implements TextToSpeech.OnIn
     private static final int CALL_PERMISSION_CODE = 104;
     private static final int LOCATION_PERMISSION_CODE = 105;
 
-    private final String GEMINI_API_KEY = "AIzaSyBd0oIzkfHK8ITEYS7mbIuLdxtdbxLDpaQ";
+    private final String GEMINI_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
